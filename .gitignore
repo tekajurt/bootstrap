@@ -1,0 +1,6 @@
+# No hacer pull de estas carpetas
+
+
+#No hacer pull de estos archivos
+
+*.swp
